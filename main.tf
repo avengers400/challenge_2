@@ -1,7 +1,7 @@
 provider "aws" {
     region = "us-east-2"
-    secret_key = "826GgT9n4yygxX87kt15dnPJo3trfbwD6lzKIJ0R"
-    access_key = "AKIAZ2SC5FB3VLJMR7PO"
+    secret_key = "xxxxxD6lzKIJ0R"
+    access_key = "xxxxxJMR7PO"
 }
 
 variable "ec2names" {
